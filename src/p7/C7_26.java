@@ -3,7 +3,7 @@ package p7;
 import java.util.Scanner;
 
 /**
- * Prompt the user to enter 2 lists and let the program determine whether the are
+ * Prompt the user to enter 2 lists and let the program determine whether they are
  * identical or not.
  *
  * @author Gavin Wilkens
